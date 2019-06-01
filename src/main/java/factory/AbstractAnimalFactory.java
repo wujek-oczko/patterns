@@ -1,6 +1,6 @@
-package AbstractFactory;
+package factory;
 
-import AbstractFactory.animals.Animal;
+import factory.animals.Animal;
 
 public abstract class AbstractAnimalFactory {
 

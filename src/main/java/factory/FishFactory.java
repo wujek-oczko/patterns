@@ -1,8 +1,8 @@
-package AbstractFactory;
+package factory;
 
-import AbstractFactory.animals.Animal;
-import AbstractFactory.animals.BigFish;
-import AbstractFactory.animals.SmallFish;
+import factory.animals.Animal;
+import factory.animals.BigFish;
+import factory.animals.SmallFish;
 
 public class FishFactory extends AbstractAnimalFactory {
     Animal createAnimal(String animalKind) {

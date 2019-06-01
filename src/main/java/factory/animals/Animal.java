@@ -1,4 +1,4 @@
-package AbstractFactory.animals;
+package factory.animals;
 
 public interface Animal {
     void move();

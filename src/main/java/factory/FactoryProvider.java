@@ -1,4 +1,4 @@
-package AbstractFactory;
+package factory;
 
 public class FactoryProvider {
     public enum Factories {

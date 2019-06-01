@@ -1,6 +1,6 @@
-package AbstractFactory;
+package factory;
 
-import AbstractFactory.animals.*;
+import factory.animals.*;
 
 public class MammalFactory extends AbstractAnimalFactory {
     Animal createAnimal(String animalKind) {

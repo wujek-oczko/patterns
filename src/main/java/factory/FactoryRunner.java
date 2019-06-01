@@ -1,6 +1,6 @@
-package AbstractFactory;
+package factory;
 
-import AbstractFactory.animals.Animal;
+import factory.animals.Animal;
 
 public class FactoryRunner {
     public static void main(String[] args) {

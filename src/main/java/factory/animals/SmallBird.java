@@ -1,4 +1,4 @@
-package AbstractFactory.animals;
+package factory.animals;
 
 public class SmallBird implements Animal {
     public void move() {
