@@ -4,7 +4,7 @@ public class InitialisedSingleton {
     private static InitialisedSingleton instance = new InitialisedSingleton();
     private InitialisedSingleton(){}
 
-    public static synchronized InitialisedSingleton getIntance() {
+    public static InitialisedSingleton getIntance() {
         return instance;
     }
 }
